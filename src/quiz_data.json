@@ -11,6 +11,18 @@
       "instruction_text": "What's your favorite number?",
       "answer_options": ["1", "2", "3", "4"],
       "answer": "4"
+    },
+    {
+      "id": 3,
+      "instruction_text": "What's your favorite color?",
+      "answer_options": ["Black", "Red", "Blue", "White"],
+      "answer": "Blue"
+    },
+    {
+      "id": 4,
+      "instruction_text": "What is the result of 3+2?",
+      "answer_options": ["4", "5", "7", "6"],
+      "answer": "5"
     }
   ]
 }
